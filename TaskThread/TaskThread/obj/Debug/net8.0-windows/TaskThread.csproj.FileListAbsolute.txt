@@ -1,0 +1,16 @@
+F:\C#44\TaskThread\TaskThread\bin\Debug\net8.0-windows\TaskThread.exe
+F:\C#44\TaskThread\TaskThread\bin\Debug\net8.0-windows\TaskThread.deps.json
+F:\C#44\TaskThread\TaskThread\bin\Debug\net8.0-windows\TaskThread.runtimeconfig.json
+F:\C#44\TaskThread\TaskThread\bin\Debug\net8.0-windows\TaskThread.dll
+F:\C#44\TaskThread\TaskThread\bin\Debug\net8.0-windows\TaskThread.pdb
+F:\C#44\TaskThread\TaskThread\obj\Debug\net8.0-windows\TaskThread.Form1.resources
+F:\C#44\TaskThread\TaskThread\obj\Debug\net8.0-windows\TaskThread.csproj.GenerateResource.cache
+F:\C#44\TaskThread\TaskThread\obj\Debug\net8.0-windows\TaskThread.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#44\TaskThread\TaskThread\obj\Debug\net8.0-windows\TaskThread.AssemblyInfoInputs.cache
+F:\C#44\TaskThread\TaskThread\obj\Debug\net8.0-windows\TaskThread.AssemblyInfo.cs
+F:\C#44\TaskThread\TaskThread\obj\Debug\net8.0-windows\TaskThread.csproj.CoreCompileInputs.cache
+F:\C#44\TaskThread\TaskThread\obj\Debug\net8.0-windows\TaskThread.dll
+F:\C#44\TaskThread\TaskThread\obj\Debug\net8.0-windows\refint\TaskThread.dll
+F:\C#44\TaskThread\TaskThread\obj\Debug\net8.0-windows\TaskThread.pdb
+F:\C#44\TaskThread\TaskThread\obj\Debug\net8.0-windows\TaskThread.genruntimeconfig.cache
+F:\C#44\TaskThread\TaskThread\obj\Debug\net8.0-windows\ref\TaskThread.dll
